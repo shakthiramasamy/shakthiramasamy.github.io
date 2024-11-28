@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a medical doctor, researcher interested in 
+Hi! I'm a medical doctor and researcher with interests in radiology, medical imaging, interventional radiology, interventional oncology, global health, deep learning, artificial intelligence, and computer vision.
