@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Shakthi Kumaran
+title: Shakthi Kumaran Ramasamy, MD # the website title (if blank, full name will be used instead)
+first_name: 
 middle_name: 
-last_name: Ramasamy, MD
+last_name:
 email: hi@shakthiramasamy.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website for Shakthi Ramasamy.
