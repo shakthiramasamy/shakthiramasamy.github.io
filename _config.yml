@@ -2,15 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Dr. # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Shakthi Kumaran
 middle_name: 
 last_name: Ramasamy
 email: shakthi@stanford.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website for Shakthi Ramasamy.
+  Personal website for Shakthi Kumaran Ramasamy.
 footer_text: >
-keywords: radiology, medical-imaging, interventional radiology, interventional oncology, global health, deep-learning, artificial-intelligence, computer-vision, kaggle # add your own keywords or leave empty
+keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
