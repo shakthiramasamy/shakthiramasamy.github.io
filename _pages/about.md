@@ -16,6 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I currently live in California/Florida. I grew up in India and previously was a postdoc at Stanford.
+I currently live in California/Florida. I grew up in India and was previously a postdoc at Stanford.
 
 Email: hi@shakthiramasamy.com
