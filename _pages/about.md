@@ -18,4 +18,4 @@ social: false # includes social icons at the bottom of the page
 
 “Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from.” Seth Godin
 
-Email: hi [at] shakthiramasamy [dot] com
+Email: hi at shakthiramasamy dot com
