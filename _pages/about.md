@@ -16,6 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I currently live in California/Florida. I grew up in India and was previously a postdoc at Stanford.
+“Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from.” Seth Godin
 
 Email: hi [at] shakthiramasamy [dot] com
