@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Shakthi Kumaran
 middle_name: 
 last_name: Ramasamy
-email: shakthi@stanford.edu
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website for Shakthi Kumaran Ramasamy.
 footer_text: >
@@ -87,14 +87,14 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: doctor-shak # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: 0000-0002-7474-2846 # your ORCID ID
+orcid_id: # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
-research_gate_profile: researchgate.net/profile/Shakthi-Kumaran-Ramasamy?ev=hdr_xprf # your profile on ResearchGate
+research_gate_profile: # your profile on ResearchGate
 scholar_userid: RqcKlhwAAAAJ # your Google Scholar ID
-scopus_id: 58321724400 # your profile on Scopus
+scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
