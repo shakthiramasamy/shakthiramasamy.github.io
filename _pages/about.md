@@ -18,4 +18,4 @@ social: true # includes social icons at the bottom of the page
 
 I currently live in California/Florida. I grew up in India and was previously a postdoc at Stanford.
 
-Email: hi@shakthiramasamy.com
+Email: <a href='mailto=hi@shakthiramasamy.com'> hi@shakthiramasamy.com</a>.
